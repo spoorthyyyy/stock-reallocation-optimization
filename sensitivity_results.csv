@@ -1,0 +1,4 @@
+scenario,demand_multiplier,units_reallocated,idle_stock_pct_reduction,stockouts_avoided_count,net_rupee_saved_inr
+Base,1.0,1936,16.5,8,713538.27
+Demand +15%,1.15,2492,24.9,8,839062.29
+Demand -15%,0.85,1381,10.1,8,511080.58
